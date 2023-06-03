@@ -154,4 +154,6 @@ df2
 ![Screenshot from 2023-05-08 21-11-03](https://user-images.githubusercontent.com/119477552/236872121-d751a0d0-85d5-4ea8-ad77-c2e8da431af1.png)
 ![Screenshot from 2023-05-08 21-11-18](https://user-images.githubusercontent.com/119477552/236872185-98dbef63-0df3-43ca-8333-7ac0d782d126.png)
 
+RESULT
 
+Thus the Feature Generation process is performed.
